@@ -1,2 +1,8 @@
 I made some changes.
+<<<<<<< HEAD
 I add more words.
+We will try something new.
+=======
+
+These are new changes made by Tim
+>>>>>>> 2337e4313552a56a7db5fa72dace91627471648a
